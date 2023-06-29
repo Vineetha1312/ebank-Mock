@@ -1,0 +1,22 @@
+.home-bg-container {
+  background-color: #183b56;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.visa-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+.visa-heading {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.visa-image {
+  width: 400px;
+  height: 250px;
+}
